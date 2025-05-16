@@ -24,7 +24,7 @@ The primary goal of this analysis is to identify key patterns in Uber ride data 
 | File Name                                     | Description                                            |
 |-----------------------------------------------|--------------------------------------------------------|
 | `Uber_Rides_Data_Analysis_using_Python.ipynb` | Main Jupyter notebook with code, visuals, and analysis |
-| `UberDataset.xlxs`                            | Sample dataset                                         |
+| `UberDataset.csv`                            | Sample dataset                                         |
 | `README.md`                                   | This file                                              |
 
 
